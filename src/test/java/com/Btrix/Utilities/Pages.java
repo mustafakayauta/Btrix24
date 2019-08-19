@@ -1,10 +1,11 @@
 package com.Btrix.Utilities;
 
-
+import com.Btrix.pages.*;
+import com.Btrix.pages.TaskPage;
 
 public class Pages {
 
-    /*private LoginPage loginPage;
+    private LoginPage loginPage;
     private TaskPage taskPage;
 
     public LoginPage loginPage() {
@@ -19,5 +20,5 @@ public class Pages {
             taskPage = new TaskPage();
         }
         return taskPage;
-    }*/
+    }
 }
